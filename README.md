@@ -1,4 +1,4 @@
-# 🏆 THE TRINITY: Complete DevSecOps Architecture
+# 🏆 Architecture
 
 ```
 🌐 INTERNET LAYER
